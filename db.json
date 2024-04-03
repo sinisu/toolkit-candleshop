@@ -1,0 +1,232 @@
+{
+    "product":[
+        {
+            "id":0,
+            "img":"https://cdn.imweb.me/thumbnail/20200429/1157c24cdb678.jpg",
+            "title":"4SONG 4SONG 코튼",
+            "price":9900,
+            "choice":true,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]",""],
+            "category":"candle"
+        },
+        {
+            "id":1,
+            "img":"https://cdn.imweb.me/thumbnail/20200428/cc2a30e1f9d20.jpg",
+            "title":"BERRY BLACK 블랙베리",
+            "price":9900,
+            "choice":true,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":2,
+            "img":"https://cdn.imweb.me/thumbnail/20221130/bb5851115594e.jpg",
+            "title":"THREE TREES 편백",
+            "price":9900,
+            "choice":false,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":3,
+            "img":"https://cdn.imweb.me/thumbnail/20200429/97fd7241122d7.jpg",
+            "title":"BUT GOOD 벚꽃",
+            "price":9900,
+            "choice":false,
+            "new":true,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":4,
+            "img":"https://cdn.imweb.me/thumbnail/20200428/3d0247ae699c8.jpg",
+            "title":"ICEBERG 바닐라아이스크림",
+            "price":24000,
+            "choice":true,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":5,
+            "img":"https://cdn.imweb.me/thumbnail/20200429/776aa4a73bffb.jpg",
+            "title":"PLOWER 플라워",
+            "price":24000,
+            "choice":false,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":6,
+            "img":"https://cdn.imweb.me/thumbnail/20200423/404175dfb68ad.jpg",
+            "title":"O-LIVE OH,LIVE 올리브",
+            "price":24000,
+            "choice":false,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":7,
+            "img":"https://cdn.imweb.me/thumbnail/20200429/2a187c0a56c43.jpg",
+            "title":"KUMQUAT 금귤",
+            "price":24000,
+            "choice":false,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":8,
+            "img":"https://cdn.imweb.me/thumbnail/20200428/70b86a1766b06.jpg",
+            "title":"L'ME SORRY 라임애플",
+            "price":38000,
+            "choice":false,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":9,
+            "img":"https://cdn.imweb.me/thumbnail/20200423/a4cb2bff0547a.jpg",
+            "title":"ROSEBERRY 장미딸기",
+            "price":38000,
+            "choice":true,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":10,
+            "img":"https://cdn.imweb.me/thumbnail/20221205/9b3cc3dcc3ff3.jpg",
+            "title":"NORDMANNS GRAN 소나무",
+            "price":40000,
+            "choice":false,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":11,
+            "img":"https://cdn.imweb.me/thumbnail/20200428/bdb0a11019376.jpg",
+            "title":"WATER MOUNTAIN 워터마운틴",
+            "price":38000,
+            "choice":true,
+            "new":false,
+            "size":["S [60g, 12h]","M [220g, 45h]","L [600g, 120h]"],
+            "category":"candle"
+        },
+        {
+            "id":12,
+            "img":"https://cdn.imweb.me/thumbnail/20230524/55cebf0994e07.jpg",
+            "title":"RED MATCH Matches 성냥",
+            "price":10000,
+            "choice":false,
+            "new":false,
+            
+            "category":"accessories"
+        },
+        {
+            "id":13,
+            "img":"https://cdn.imweb.me/thumbnail/20230524/db0273666d8bc.jpg",
+            "title":"BEAN SPROUT Matches 성냥",
+            "price":10000,
+            "choice":false,
+            "new":false,
+            
+            "category":"accessories"
+        },
+        {
+            "id":14,
+            "img":"https://cdn.imweb.me/thumbnail/20230524/09f2c2e02977b.jpg",
+            "title":"Well-Matched Matches 성냥",
+            "price":10000,
+            "choice":false,
+            "new":false,
+            
+            "category":"accessories"
+        },
+        {
+            "id":15,
+            "img":"https://cdn.imweb.me/thumbnail/20200427/81845eeab3451.jpg",
+            "title":"WICK TRIMMER & WICK DIPPER 캔들 가위와 불끄개",
+            "price":15000,
+            "choice":false,
+            "new":false,
+            
+            "category":"accessories"
+        },
+        {
+            "id":16,
+            "img":"https://cdn.imweb.me/thumbnail/20220629/8b0d3df441aea.jpg",
+            "title":"DIFFUSER 100ML SET 디퓨저 세트",
+            "price":29000,
+            "choice":false,
+            "new":false,
+            "size":["WATER MOUNTAIN 워터마운틴",
+                    "CALL ME BY YOUR NAME 샌달우드",
+                    "FOUR SONGS 드라이 코튼",
+                    "NORDMANNS GRAN 소나무",
+                    "HERBALABOMB 허벌 로즈마리",
+                    "PLOWER 플라워 피치",
+                    "O LIVE OH LIVE 올리브"],
+            "category":"diffuser"
+        },
+        {
+            "id":17,
+            "img":"https://cdn.imweb.me/thumbnail/20220629/e5812fec5af03.jpg",
+            "title":"DIFFUSER REFILL 250ML 디퓨저 리필",
+            "price":28000,
+            "choice":false,
+            "new":false,
+            "size":["WATER MOUNTAIN 워터마운틴",
+                    "CALL ME BY YOUR NAME 샌달우드",
+                    "FOUR SONGS 드라이 코튼",
+                    "NORDMANNS GRAN 소나무",
+                    "HERBALABOMB 허벌 로즈마리",
+                    "PLOWER 플라워 피치",
+                    "O LIVE OH LIVE 올리브"],
+            "category":"diffuser"
+        },
+        {
+            "id":18,
+            "img":"https://cdn.imweb.me/thumbnail/20220707/ef00e4183dfe0.jpg",
+            "title":"SPACE PERFUME 공간향수 150ML",
+            "price":29000,
+            "choice":false,
+            "new":false,
+            "size":["WATER MOUNTAIN 워터마운틴",
+                    "CALL ME BY YOUR NAME 샌달우드",
+                    "FOUR SONGS 드라이 코튼",
+                    "NORDMANNS GRAN 소나무",
+                    "HERBALABOMB 허벌 로즈마리",
+                    "PLOWER 플라워 피치",
+                    "O LIVE OH LIVE 올리브"],
+            "category":"perfume"
+        },
+        {
+            "id":19,
+            "img":"https://cdn.imweb.me/thumbnail/20200429/b3cce2c762eaa.jpg",
+            "title":"BRICK POUCH (NAVY) 와펜파우치 네이비",
+            "price":15000,
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"],
+            "category":"fabric"
+        },
+        {
+            "id":20,
+            "img":"https://cdn.imweb.me/thumbnail/20200423/88712087edd57.jpg",
+            "title":"AVO POUCH (KHAKI GRAY) 와펜파우치 카키그레이",
+            "price":15000,
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"],
+            "category":"fabric"
+        }
+    ]
+}
